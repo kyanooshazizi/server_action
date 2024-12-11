@@ -1,0 +1,23 @@
+.inform{
+    display: block;
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #efefef;
+    margin: 10px;
+}
+.btn{
+    margin: 10px;
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+.tagform{
+    border:2px solid black;
+    border-radius: 10px;
+    padding: 5px;
+   width: 350px;
+}
